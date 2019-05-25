@@ -28,7 +28,7 @@ header h1 {
 	
 }
 
-header:hover {
+header a:hover {
 	  color: rgb(111,127,122);
 }
 
